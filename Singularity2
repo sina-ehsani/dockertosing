@@ -1,0 +1,5 @@
+Bootstrap:docker  
+From:sinaehsani/sanmodel_container:final
+
+%post
+mkdir -p /extra/sinaehsani
