@@ -3,3 +3,4 @@ From:sinaehsani/sanmodel_container:final
 
 %post
 mkdir -p /extra/sinaehsani
+mkdir -p /home/u15/sinaehsani
