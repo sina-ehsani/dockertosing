@@ -1,0 +1,6 @@
+Bootstrap:docker  
+From:sinaehsani/sansrc_new:1st
+
+%post
+mkdir -p /extra/sinaehsani
+mkdir -p /home/u15/sinaehsani
